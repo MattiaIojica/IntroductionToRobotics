@@ -48,8 +48,8 @@ The system has the following states:
 Long pressing the button to reset should only be available in state 1.
 
 #### Picture
-![hw3](Homework3/p2.JPEG)
+![hw3](Homework3/p2.jpg)
 #### Video
-<a href="https://youtu.be/EwdcShFlGiQ"><img src="Homework3/p2.JPEG"></a>
+<a href="https://youtu.be/EwdcShFlGiQ"><img src="Homework3/p2.jpg"></a>
   
  </details>
