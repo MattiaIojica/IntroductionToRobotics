@@ -32,7 +32,7 @@ Simulate the behaviour of traffic lights for a cross walk.
   
  </details>
 
-
+<hr>
 
 <details>
   <summary> <h3> Homework #3 </h3> </summary>
