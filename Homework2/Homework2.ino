@@ -61,7 +61,7 @@ void setup()
   pinMode(pedestrianLedRed, OUTPUT);
   pinMode(pedestrianLedGreen, OUTPUT);
 
-  changeState(STATE_CARS_CROSSING); // default state when idling
+  changeState(STATE_CARS_CROSSING);
   Serial.begin(9600);
 }
 

@@ -207,7 +207,7 @@ void writeNumber(int displayNo, int selected) {
 
     writeReg(digitToWrite);
     showDigit(i);
-    EEPROM.write(i, digits[i]);
+    EEPROM.update(i, digits[i]);
     
     delay(5);
   }
