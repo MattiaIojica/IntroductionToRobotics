@@ -33,7 +33,7 @@ Simulate the behaviour of traffic lights for a cross walk.
   
  </details>
 
-
+<hr>
 
 <details>
   <summary> <h3> Homework #3 </h3> </summary>
@@ -49,11 +49,13 @@ The system has the following states:
 Long pressing the button to reset should only be available in state 1.
 
 #### Picture
-![hw3](Homework3/p2.JPEG)
+![hw3](Homework3/p2.jpg)
 #### Video
 [Link to the video!](https://youtu.be/EwdcShFlGiQ)
   
  </details>
+
+<hr>
 
  <details>
   <summary> <h3> Homework #4 </h3> </summary>
