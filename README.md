@@ -11,7 +11,8 @@ The control must be done with digital electronics.
 #### Picture
 ![hw1](Homework1/p2.JPEG)
 #### Video
-<a href="https://www.youtube.com/watch?v=GDnJiGdQX0s&list=PLMdxOyD8kBYj5SUNuWBl3NmEFGPh_dJIb"><img src="Homework1/p1.JPEG"></a>
+[Link to the video!](https://www.youtube.com/watch?v=GDnJiGdQX0s&list=PLMdxOyD8kBYj5SUNuWBl3NmEFGPh_dJIb)
+
 
  </details>
   
@@ -28,11 +29,11 @@ Simulate the behaviour of traffic lights for a cross walk.
 #### Picture
 ![hw2](Homework2/p1.JPEG)
 #### Video
-<a href="https://youtu.be/mJKcgo-BVUo"><img src="Homework2/p1.JPEG"></a>
+[Link to the video!](https://youtu.be/mJKcgo-BVUo)
   
  </details>
 
-<hr>
+
 
 <details>
   <summary> <h3> Homework #3 </h3> </summary>
@@ -48,8 +49,27 @@ The system has the following states:
 Long pressing the button to reset should only be available in state 1.
 
 #### Picture
-![hw3](Homework3/p2.jpg)
+![hw3](Homework3/p2.JPEG)
 #### Video
-<a href="https://youtu.be/EwdcShFlGiQ"><img src="Homework3/p2.jpg"></a>
+[Link to the video!](https://youtu.be/EwdcShFlGiQ)
+  
+ </details>
+
+ <details>
+  <summary> <h3> Homework #4 </h3> </summary>
+
+### Task
+
+The joystick should be used to move through the 4 digit 7-segment displays digits; the button will be pressed in orded to lock in on the current digit the other axis should be used to increment or decrement the number. Holding button pressed should reset all the digit values and the current position to the first digit in the first state.
+
+1. State 1: a joystick axis  can be used to cycle through the 4 digits; using the other axis does nothing. A blinking decimal point shows the current digit position. When pressing the button, the selected digit is locked in and the second state is entered.
+2. State 2: in this state, the decimal point stays always on, no longer blinking and the axis can not longer be used to cycle through the 4 digits. Instead, using the other axis, the number on the current digit IN HEX can be incremented or decremented. Pressing the button again return to the previous state. When changing the number, it can be incremented for each joystick movement - it does not increment continuosly if the joystick is kept in one position.
+3. Reset: toggled by long pressing the buttononly in the first state. When resetting, all the digits go back to 0 and the current position is set to the first (rightmost) digit, in the first state.
+
+
+#### Picture
+![hw4](Homework4/p1.JPEG)
+#### Video
+[Link to the video!](https://youtube.com/shorts/XvVE8rHHmII)
   
  </details>
