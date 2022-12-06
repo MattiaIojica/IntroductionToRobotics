@@ -75,3 +75,18 @@ The joystick should be used to move through the 4 digit 7-segment displays digit
 [Link to the video!](https://www.youtube.com/watch?v=XvVE8rHHmII&list=PLMdxOyD8kBYj5SUNuWBl3NmEFGPh_dJIb)
   
  </details>
+
+<hr>
+
+<details>
+  <summary> <h3> Matrix Project </h3> </summary>
+
+### Task
+
+#### Picture
+![hw5](MatrixProject/p1.JPEG)
+#### Video
+  
+ </details>
+ 
+ 
