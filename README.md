@@ -79,14 +79,22 @@ The joystick should be used to move through the 4 digit 7-segment displays digit
 <hr>
 
 <details>
-  <summary> <h3> Matrix Project </h3> </summary>
+  <summary> <h3> HomeWork #5 </h3> </summary>
+  
+  Create a menu for a game. The menu should include:
+  <li> Start game </li>
+  <li> Highscore: Saving the top 5 scores </li>
+  <li> Settings: Name, difficulty, LCD brightness, matrix brightness</li>
+  <li> About: details about the creator </li>
+  <li> How to play </li>
 
 ### Task
 
 #### Picture
 ![hw5](MatrixProject/p1.JPEG)
-#### Video
   
- </details>
+#### Video
+[Link to the video!](https://youtu.be/V0Ln0AulCLk)
  
+</details>
  
